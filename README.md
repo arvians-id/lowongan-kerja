@@ -62,3 +62,12 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+
+## Authors
+
+- [@arvians-id](https://www.github.com/arvians-id)
+
+## Contribute
+Support saya agar lebih banyak berkontribusi dalam membuat sebuah project aplikasi berbasis website sederhana
+
+- Saweria : https://saweria.co/widdyarfian
